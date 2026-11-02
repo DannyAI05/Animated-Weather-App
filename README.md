@@ -62,13 +62,6 @@ Weather conditions are used to determine the application's visual theme.
 
 <img width="964" height="652" alt="image" src="https://github.com/user-attachments/assets/d3c8230f-dd2c-4b58-8090-e9b6fd08897d" />
 
-
-<p align="center">
-  <img src="weather-app-preview.png" alt="Animated Weather App Preview" width="800">
-</p>
-
-*Replace the image path above with an actual screenshot of your application.*
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
